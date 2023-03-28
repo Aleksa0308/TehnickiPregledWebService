@@ -25,6 +25,10 @@ The App autmomaticly calculates all the payed prices, total amout of vehicles, t
 The database consists of Users, Specifications, Types of vehicles, Agencies, Brands of cars, motorcycles, Tractors etc.
 
 
+## Green Border around the elements and green number indicates that those elements are SAVED in the database, no Border and blue number indicates that the element isn't save!
+## Elements can be edited and deleted!
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
