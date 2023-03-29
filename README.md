@@ -71,7 +71,7 @@ Gives all the authority and all CRUD operations to the Admin user. If he edits a
 
 Aleksa Stojanovic - aleksas0308@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Aleksa0308/TehnickiPregledWebService)
+Project Link: https://github.com/Aleksa0308/TehnickiPregledWebService
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
